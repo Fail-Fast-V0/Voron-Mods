@@ -17,6 +17,6 @@ This allows you to convert your V0.1 Mini Afterburner to a Bowden system with a 
 ### 3) Assemble mini afterburner as usual except omit the original mid body and idler lever.
 
 
-NOTES
+## NOTES
 * Design is currently in pre-alpha 
-* two STLs one with typical tolerances and a second one with loose tolerances for printers that tend to overextrude a little
+* two STLs are available. One with typical voron tolerances and a second one with looser tolerances for printers that tend to overextrude a little
