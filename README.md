@@ -14,9 +14,9 @@ This allows you to convert your V0.1 Mini Afterburner to a Bowden system with a 
 ### 2) push the teflon tube in to the desired length. It should stick out the bottom by some amount which is determined by whichever hotend you use (see v0.1 manual ) 
 <img src="https://github.com/bogeyf14/Voron_Mods/blob/main/Bowden%20Mini%20Afterburner/Images/IMG_20220112_135506.jpg"  width="300" height="400">
 
-### 3) Assemble mini afterburner as usual
+### 3) Assemble mini afterburner as usual except omit the original mid body and idler lever.
 
 
 NOTES
-* currently in Alpha
+* Design is currently in pre-alpha 
 * two STLs one with typical tolerances and a second one with loose tolerances for printers that tend to overextrude a little
