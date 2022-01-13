@@ -1,6 +1,6 @@
 # Bowden Mini After Burner
 
-This is the same extruder that I used to hit 200k, 500k adn even 1000k acceleration (That's not typo, that's *literally* 1000 times higher than a Prusa Mk3)      https://www.youtube.com/watch?v=xTcdD8uvqYk&ab
+This is the same extruder that I used to hit 200k, 500k and even 1000k acceleration (That's not typo, that's *literally* 1000 times higher than a Prusa Mk3)      https://www.youtube.com/watch?v=xTcdD8uvqYk&ab
 
 This mod allows you to convert your V0.1 Mini Afterburner to a Bowden system with a single printed part. The only additional hardware you need is an ECAS04 embedded collet as used in the M4 Extruder
 
