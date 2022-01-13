@@ -20,3 +20,4 @@ This allows you to convert your V0.1 Mini Afterburner to a Bowden system with a 
 ## NOTES
 * Design is currently in pre-alpha 
 * two STLs are available. One with typical voron tolerances and a second one with looser tolerances for printers that tend to overextrude a little
+* Want to see how fast a V0 can go with this mod?    https://www.youtube.com/watch?v=xTcdD8uvqYk&ab
