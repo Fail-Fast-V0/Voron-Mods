@@ -25,6 +25,6 @@ This mod allows you to convert your V0.1 Mini Afterburner to a Bowden system wit
 * two STLs are available. One with typical voron tolerances and a second one with looser tolerances for printers that tend to overextrude a little
 
 # Voron V0.1 Wide Feet
-Idk about you but my machine will walk right off my table when I'm running speed benchys, so I designed these feet.They are taller and wider than the normal V0.1 feet. They measure 50mm top to bottom and have 6mm holes in the corners to allow you to bolt your printer to a table, concrete slab, moving train or whatever your heart desires. 
+Idk about you but my machine will walk right off my table when I'm running speed benchys, so I designed these feet.They are taller and wider than the normal V0.1 feet. They measure 50mm top to bottom and have 6mm holes in the corners to allow you to bolt your printer to a table, concrete slab or whatever you can think of. 
 
 <img src="https://github.com/bogeyf14/Voron_Mods/blob/main/V0.1%20Wide%20Feet/v0.1_wide_feet.png"  width="540" height="370">
