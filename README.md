@@ -26,7 +26,7 @@ This mod allows you to convert your V0.1 Mini Afterburner to a Bowden system wit
 
 # Fail Fast Fanless Volcano Toolhead (pre-alpha)
 This toolhead is made in the style of the V0.1 and is a plug and play experience for your direct drive toolhead. It eliminates the toolhead mounted part cooling fans and provides better insulation of the heaterblock from drafts and RCS.
-*It is currently only for dragons with a volcano heatblock. 
+*It is currently only for dragons with a volcano heatblock. There is also a known issue with a small hole in the cowling, I will fix the model when I find the time* 
 
 <img src="https://github.com/Fail-Fast-V0/Voron-Mods/blob/main/FF%20Fanless%20Volcano/Little%20monster%20pre-alpha.png"  width="367" height="510">
 
