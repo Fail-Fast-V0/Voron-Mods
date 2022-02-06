@@ -24,7 +24,17 @@ This mod allows you to convert your V0.1 Mini Afterburner to a Bowden system wit
 * Design is currently in pre-alpha 
 * two STLs are available. One with typical voron tolerances and a second one with looser tolerances for printers that tend to overextrude a little
 
+# Fail Fast Fanless Volcano Toolhead (pre-alpha)
+This toolhead is made in the style of the V0.1 and is a plug and play experience for your direct drive toolhead. It eliminates the toolhead mounted part cooling fans and provides better insulation of the heaterblock from drafts and RCS.
+*It is currently only for dragons with a volcano heatblock. 
+
+<img src="https://github.com/Fail-Fast-V0/Voron-Mods/blob/main/FF%20Fanless%20Volcano/Little%20monster%20pre-alpha.png"  width="367" height="510">
+
+
+
 # Voron V0.1 Wide Feet
 Idk about you but my machine will walk right off my table when I'm running speed benchys, so I designed these feet.They are taller and wider than the normal V0.1 feet. They measure 50mm top to bottom and have 6mm holes in the corners to allow you to bolt your printer to a table, concrete slab or whatever you can think of. 
 
 <img src="https://github.com/bogeyf14/Voron_Mods/blob/main/V0.1%20Wide%20Feet/v0.1_wide_feet.png"  width="540" height="370">
+
+
